@@ -1,0 +1,54 @@
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~Aleksandra Kulbaka~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+body
+{
+	text-align:center;
+	font-family:Courier New;
+	font-size:18px;
+}
+
+h1
+{
+	text-align:center;
+	font-family:Bradley Hand ITC;
+	font-size:45px;
+}
+
+canvas
+{
+	border:3px solid #b9eea5;
+	border-radius:20px;
+}
+
+/*images will not be displayed on the page*/
+img
+{
+	display:none;
+}
+
+/*changes appearance of the buttons*/
+button
+{
+	font-size:18px;
+	font-family:Courier New;
+	font-weight:bold;
+	background-color:#caffb6;
+	height:30px;
+	width:100px;
+	border-radius:10px;
+}
+
+/*changes appearance of the buttons after hover them*/
+button:hover
+{
+	background-color:#edffb8;
+	border-right:2px solid black;
+	border-bottom:2px solid black;
+}
+
+footer
+{
+	color:grey;
+}
