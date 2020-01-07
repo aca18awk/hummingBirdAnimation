@@ -1,2 +1,3 @@
 # hummingBirdAnimation
-Animation of the humming bird created only with vanilla JavaScript
+It was my first attempt to make animation using only vanilla JavaScript. 
+Created in Dec 2018.
